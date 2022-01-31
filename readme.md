@@ -11,6 +11,6 @@
 7. put one comment on the post you wanna spam comment, in instagram app.
 8. run ```streamlit run main.py```
 
-9. the select the post you wanna spam comment on and fill the id section with gathered id's (you can use https://github.com/Lord-A2K/instagram-user-collector)
+9. the select the post you wanna spam comment on and fill the id section with gathered id's (you can use https://github.com/Lord-A2K/instagram-ID-collector-from-Likes)
 
 note: it may action block you if you use it alot.
